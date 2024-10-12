@@ -1,2 +1,2 @@
-# create-vm--terraform-vsphere-
-using TF to create VM from another VM or Template on vmware vsphere
+# create-vm-terraform-Vsphere
+using TF to create a VM from another VM or Template on VMware Vsphere
